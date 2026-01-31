@@ -94,7 +94,28 @@ Simulation Tools:
 
 --> Xilinx Vivado Simulator
 
-🎯 Learning Outcomes
+Simulation Result :
+
+--> Output Waveform
+
+<img width="1920" height="1200" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/d52907e2-32a8-416c-a98d-d085d9e20a1e" />
+
+<img width="1920" height="1200" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/5b587adb-9b71-4d90-a062-ac6032233fcc" />
+
+<img width="1920" height="1200" alt="Screenshot (245)" src="https://github.com/user-attachments/assets/b84c299c-0dd1-4713-836d-03c7a610122f" />
+
+<img width="1920" height="1200" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/14b7cf13-fa4d-4616-8ee5-7a36437e3845" />
+
+
+--> RTL Schematic 
+
+<img width="1920" height="1200" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/82321c07-4e20-40b5-98ce-dcce98d64413" />
+
+--> Synthesized Design
+
+<img width="1920" height="1200" alt="Screenshot (247)" src="https://github.com/user-attachments/assets/1e58d6dd-4cc5-4fe1-a1bb-c1a244865119" />
+
+
 
 🎯 Learning Outcomes
 
