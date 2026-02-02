@@ -1,6 +1,8 @@
 # ALU_32_BIT_VHDL
 A complete 32-bit Arithmetic Logic Unit (ALU) designed in VHDL, supporting arithmetic, logical, and shift operations, along with a comprehensive testbench covering edge cases and operational scenarios.
 
+Note : The testbench performs exhaustive ALU operation selection with strong edge-case coverage. Future enhancement includes converting it into a self-checking testbench using assertions and reference models
+
 32-Bit Arithmetic Logic Unit (ALU) in VHDL
 
 📌 Project Overview
